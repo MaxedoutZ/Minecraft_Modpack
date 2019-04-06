@@ -1,0 +1,164 @@
+D:\Games\ftb\FTBLauncherLog.txt: written by FTB Launcher
+[23:35:02] [DEBUG] Main.main:171: Launcher arguments: []
+[23:35:02] [DEBUG] Main.main:172: Launcher PID: 2128
+[23:35:02] [DEBUG] Main.main:183: FTB Launcher CI Build #: 440, Git SHA: 51e5a86cddb2
+[23:35:02] [INFO] JGoogleAnalyticsTracker$2.run:484: AnalyticsBackgroundThread started
+[23:35:02] [INFO] MainHelpers.printInfo:39: FTBLaunch starting up (version 1.4.17 Build: 10417)
+[23:35:02] [DEBUG] MainHelpers.printInfo:40: System's default JVM: (This is not always used to launch MC)
+[23:35:02] [DEBUG] MainHelpers.printInfo:41: Java version: 1.8.0_161
+[23:35:02] [DEBUG] MainHelpers.printInfo:42: Java vendor: Oracle Corporation
+[23:35:02] [DEBUG] MainHelpers.printInfo:43: Java home: C:\Program Files\Java\jre1.8.0_161
+[23:35:02] [DEBUG] MainHelpers.printInfo:44: Java specification: Java Virtual Machine Specification version: 1.8 by Oracle Corporation
+[23:35:02] [DEBUG] MainHelpers.printInfo:46: Java vm: Java HotSpot(TM) 64-Bit Server VM version: 25.161-b12 by Oracle Corporation
+[23:35:02] [INFO] MainHelpers.printInfo:47: OS: Windows 10 10.0 (64-bit)
+[23:35:02] [INFO] MainHelpers.printInfo:48: Launcher Install Dir: D:\Games\ftb
+[23:35:03] [INFO] MainHelpers.printInfo:49: System memory: 4945M free, 10231M total
+[23:35:03] [DEBUG] OSUtils.printGPUinformation:765: GPU information:
+AdapterRAM  Description             DriverDate                 DriverVersion  InstalledDisplayDrivers
+2147483648  NVIDIA GeForce GTX 960  20181010000000.000000-000  25.21.14.1634  C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f4187dc256a67a6b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f4187dc256a67a6b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f4187dc256a67a6b\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f4187dc256a67a6b\nvldumdx.dll
+[23:35:03] [INFO] JavaFinder.parseJavaVersion:175: The FTB Launcher has found the following Java versions installed:
+[23:35:03] [INFO] JavaFinder.parseJavaVersion:177: Java Version: 1.8.0_161 sorted as: 1.8.0_161 64 Bit Java at : C:\Program Files\Java\jre1.8.0_161\bin\java.exe
+[23:35:03] [INFO] JavaFinder.parseJavaVersion:177: Java Version: 1.8.0_161 sorted as: 1.8.0_161 64 Bit Java at : C:\Program Files\Java\jre1.8.0_161\bin\java.exe
+[23:35:03] [INFO] JavaFinder.parseJavaVersion:204: Preferred: Java Version: 1.8.0_161 sorted as: 1.8.0_161 64 Bit Java at : C:\Program Files\Java\jre1.8.0_161\bin\java.exe
+[23:35:03] [DEBUG] OSUtils.getProxy:92: ProxySelector: type: DIRECT, no proxy for https://ftb.forgecdn.net
+[23:35:03] [DEBUG] OSUtils.getProxy:92: ProxySelector: type: DIRECT, no proxy for https://www.creeperrepo.net
+[23:35:03] [DEBUG] DownloadUtils.run:454: DownloadUtils.run() starting
+[23:35:04] [INFO] I18N.addFiles:97: [i18n] Fallback enUS loaded
+[23:35:04] [INFO] I18N.setLocale:120: [i18n] deDE Deutsche Sprachdatei geladen!
+[23:35:04] [INFO] LoadingDialog.advance:46: Checking installation location
+[23:35:06] [INFO] LoadingDialog.advance:46: Loading user data
+[23:35:06] [INFO] User.readObject:154: Password is now encrypted with new key
+[23:35:06] [INFO] User.readObject:155: Converted password will be saved to disk after successful login
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Download Utils Balance (forgecdn) took 3568 ms.
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Modpack Loader https://ftb/thirdparty.xml took 479 ms.
+[23:35:07] [INFO] ModpackLoader$XmlHtmlRunnable.handleXML:106: Loading modpack information for thirdparty.xml...
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Download Utils Balance took 3643 ms.
+[23:35:07] [DEBUG] OSUtils.getMacAddress:427: Interface: Marvell Yukon 88E8056 PCI-E Gigabit Ethernet Controller : eth4
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Modpack Loader https://ftb/modpacks.xml took 554 ms.
+[23:35:07] [INFO] ModpackLoader$XmlHtmlRunnable.handleXML:106: Loading modpack information for modpacks.xml...
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Download Utils Curse edges.json took 3895 ms.
+[23:35:07] [DEBUG] DownloadUtils.run:550: DL ready
+[23:35:07] [INFO] DownloadUtils.run:583: Using download server Automatic:CurseCDN on host ftb.forgecdn.net (143.204.207.206)
+[23:35:07] [DEBUG] Benchmark.logBenchAs:76: Download Utils Init took 3895 ms.
+[23:35:07] [DEBUG] CryptoUtils.decrypt:83: trying with hardware id
+[23:35:07] [DEBUG] CryptoUtils.decrypt:88: hardware id ok
+[23:35:07] [DEBUG] CryptoUtils.encrypt:124: trying hardware id
+[23:35:07] [DEBUG] CryptoUtils.encrypt:126: hardware id ok
+[23:35:07] [DEBUG] CryptoUtils.decrypt:83: trying with hardware id
+[23:35:07] [DEBUG] CryptoUtils.decrypt:88: hardware id ok
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 100 (Space Astronomy)
+[23:35:07] [DEBUG] RetiredPacksLoader.run:64: Found 26packcodes
+[23:35:07] [INFO] LoadingDialog.advance:46: Creating Console window
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 0 (FTB Interactions)
+[23:35:07] [INFO] LoadingDialog.advance:46: Creating main window
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 101 (InfiTech 2)
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 1 (FTB Sky Odyssey)
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 102 (TerraFirmaPunk)
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 103 (The Ferret Business)
+[23:35:07] [DEBUG] AuthlibDLWorker.doInBackground:56: Loading Authlib...
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 2 (FTB Ultimate Reloaded)
+[23:35:07] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 104 (Simply Magic)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 3 (FTB Presents Stoneblock 2)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 105 (BeeHappy)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 4 (FTB Sky Adventures)
+[23:35:08] [INFO] AuthlibDLWorker.downloadJars:147: Local Authlib Version is good, skipping Download
+[23:35:08] [INFO] AuthlibDLWorker.doInBackground:68: Adding Authlib to Classpath
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 106 (Regrowth)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 5 (FTB Continuum)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 107 (Crash Landing)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 6 (FTB Revelation)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 7 (FTB Pyramid Reborn 3.0)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 108 (Agrarian Skies: Hardcore Quest)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 109 (Vanilla Minecraft)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 8 (FTB Presents Direwolf20 1.12)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 9 (FTB Egg Hunt)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 10 (FTB Horizons III)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 11 (FTB Beyond)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 12 (FTB Unstable 1.12)
+[23:35:08] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 13 (FTB Sky Factory Challenges)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 14 (FTB Presents Skyfactory 3)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 15 (FTB Infinity Lite 1.10)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 16 (FTB Presents Direwolf20 1.10)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 17 (FTB Presents HermitPack)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 18 (FTB Infinity Evolved 1.7)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 19 (FTB Inventions)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 20 (FTB Presents Crackpack)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 21 (FTB Presents Skyfactory 2.5)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 22 (FTB Infinity Evolved Skyblock)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 23 (FTB Horizons: Daybreaker)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 24 (FTB Vanilla+)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 25 (FTB Departed)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 26 (FTB Trident)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 27 (FTB Presents Cloud 9)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 28 (FTB Presents Direwolf20)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 29 (FTB Lite 3)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 30 (FTB Mage Quest)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 31 (FTB Resurrection)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 32 (Pax Prime 2015 Map)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 33 (Monster)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 34 (Direwolf20)
+[23:35:09] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 35 (Horizons)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 36 (Tech World 2)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 37 (Magic World 2)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 38 (FTBLite2)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 39 (FTB Unleashed)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 40 (FTB Ultimate)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 41 (Unstable 1.7.x (Public Beta Test Pack))
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 42 (FTB Lite)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 43 (Direwolf20 1.5 v2)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 44 (Direwolf20 Pack)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 45 (MindCrack Pack)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 46 (YogCraft Modpack)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 47 (FTB Unhinged)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 48 (Magic World)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 49 (Tech World)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 50 (Pax South 2015 Map)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 51 (Pax Prime 2014 Map)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 52 (Pax East 2014 Map)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 53 (Pax Challenge Pack 2013)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 54 (Feed The Beast Retro SSP)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 55 (Feed The Beast Retro SMP)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 56 (Slow's Stream Pack)
+[23:35:10] [DEBUG] ModpackLoader$XmlHtmlRunnable.handleXML:148: Adding pack 57 (Feed The Beast Beta Pack A)
+[23:35:10] [DEBUG] Benchmark.logBenchAs:76: All modpack lists loaded took 3468 ms.
+[23:35:10] [DEBUG] Benchmark.logBenchAs:76: Authlib DL Worker Init took 2526 ms.
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 0 enUS to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 1 cyGB to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 2 daDK to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 3 deDE to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 4 enGB to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 5 enUS to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 6 esES to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 7 fiFI to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 8 frCA to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 9 frFR to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 10 itIT to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 11 maHU to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 12 nlNL to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 13 noNO to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 14 plPL to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 15 ptBR to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 16 ptPT to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 17 ruRU to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 18 svSE to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 19 zhCN to options pane
+[23:35:10] [INFO] OptionsPane.<init>:164: [i18n] Added 20 zhTW to options pane
+[23:35:10] [INFO] I18N.setLocale:120: [i18n] deDE Deutsche Sprachdatei geladen!
+[23:35:10] [DEBUG] Benchmark.logBenchAs:76: UnreadNews Init took 0 ms.
+[23:35:11] [DEBUG] Benchmark.logBench:62: Waiting for main window took 873 ms.
+[23:35:11] [INFO] MapLoader.run:43: loading map information...
+[23:35:11] [INFO] TexturePackLoader.run:43: loading texture pack information...
+[23:35:11] [INFO] LoadingDialog.advance:46: Setting up Launcher
+[23:35:11] [DEBUG] Benchmark.logBenchAs:76: Texture Pack Load  took 225 ms.
+[23:35:11] [DEBUG] Benchmark.logBenchAs:76: Launcher Startup(maps or texturepacks loaded) took 8911 ms.
+[23:35:11] [DEBUG] Benchmark.logBenchAs:76: MapLoader run  took 237 ms.
+[23:35:11] [DEBUG] Benchmark.logBenchAs:76: Launcher Startup(maps and texturepacks loaded) took 8922 ms.
+[23:35:11] [DEBUG] UpdateChecker.<init>:71: Launcher Install path: D:\Games\ftb\FTB_Launcher.exe
+[23:35:11] [INFO] LoadingDialog.advance:46: Downloading pack data
+[23:35:11] [INFO] LoadingDialog.advance:46: Opening main window
+[23:35:11] [DEBUG] Benchmark.logBenchAs:76: Launcher Startup(Modpacks loaded) took 8945 ms.
+[23:35:11] [DEBUG] LaunchFrame$14.run:451: Last used packs: FTBPresentsDirewolf20112 FTBInteractions
+[23:35:11] [DEBUG] UpdateChecker.shouldUpdate:132: updater: buildjenk 440 < betajenk 341|| version 10417 < 10408
+[23:35:11] [DEBUG] UpdateChecker.shouldUpdate:133: latest = 10417
+[23:35:12] [DEBUG] Benchmark.logBench:62: NewsUtils took 1977 ms.
+[23:35:13] [DEBUG] Benchmark.logBenchAs:76: Launcher Startup(main window opened and ready to use) took 11265 ms.
