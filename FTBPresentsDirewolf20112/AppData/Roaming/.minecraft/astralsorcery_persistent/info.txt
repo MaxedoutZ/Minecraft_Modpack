@@ -1,0 +1,9 @@
+Astral Sorcery's persistent data directory
+Astral Sorcery stores various informations here to ensure they are persistent across several playthroughs
+of different modpacks. Thus, no matter what pack you play, these files end up here.
+
+Files saved here are saved in an NBT format and can't be opened directly on many systems.
+See 'NBTExplorer' or related software to open and modify the files if needed.
+
+Should you wish to disable some or all features accessing the permanent storage, check
+Astral Sorcery's configuration file and disable all or individual features.
