@@ -1,0 +1,27 @@
+FTB Launcher and Modpack Credits 
+-------------------------------
+Launcher Developers:
+jjw123
+unv_annihilator
+ProgWML6
+Launcher Team Members
+IoP
+Viper-7
+
+Major Launcher Dev Contributors
+LexManos
+Asyncronous
+Vbitz
+
+Web Developers:
+Captainnana
+Rob
+
+Modpack Team:
+Lathanael
+Jadedcat
+Eyamaz
+
+Third Party Modpack Team:
+Watchful11
+TFox83

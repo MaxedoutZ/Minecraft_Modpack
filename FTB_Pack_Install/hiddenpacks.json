@@ -1,0 +1,30 @@
+{
+  "mapping": {
+    "local_directory": "pack_code",
+    "LapitosGalacticraft": "LapitosGalacticraft",
+    "InfamyDynamicWarfare": "Infamy",
+    "Voxel": "Voxel",
+    "NewWorldModPack": "NewWorldModPack",
+    "divinerpg": "RPGImmersion", 
+    "VoxelModPack": "VoxelModPack",
+    "MagicFarm": "MagicFarm",
+    "Pathfinder": "toboldlygo",
+    "BlastOff": "BlastOff",
+    "MaterialEnergy4": "ME4",
+    "TolkienCraftII": "tolkienadv2",
+    "RunningRed2VampireMoney": "vampire",
+    "TheDarkTrilogy": "darktrilogy",
+    "MaterialEnergy3": "ME3",
+    "TPPI": "MegaSharkPunch",
+    "RunningRed": "blood",
+    "EPiCCRAFT": "5543211",
+    "BloodNBones": "bloodnbones",
+    "MagicFarm2": "magicfarm2",
+    "Hubris": "hubris",
+    "Refuge": "refuge",
+    "VoidWorld": "storkman",
+    "Obscurity": "obscurity",
+    "BanishedTest": "banished",
+    "GalacticScience": "THX2MYM"
+  }
+}

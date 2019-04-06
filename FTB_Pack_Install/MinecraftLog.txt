@@ -1,0 +1,4 @@
+D:\Games\ftb\FTB_Pack_Install\MinecraftLog.txt: written by FTB Launcher
+Exception in thread "main" java.lang.ClassCastException: java.base/jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to java.base/java.net.URLClassLoader
+	at net.minecraft.launchwrapper.Launch.<init>(Launch.java:34)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
